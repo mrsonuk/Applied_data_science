@@ -3,21 +3,11 @@
 
 <h1 align="center"> A Tale of Two Cities </h1>
 
-<h2 align="center">
-Clustering the Neighbourhoods of London and Paris
-  <br>
-  <br>
-Thomas George Thomas
-<br>
-  <br>
-18th August 2020
-</h2>
+
 
 ### Project Links:
 
-1. **Code:** [Jupyter Notebook](https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/Tale_of_Two_Cities_A_Data_Science_Take.ipynb)
-2. **Blog Post:** [Medium Article](https://medium.com/@thomas_george_thomas/a-tale-of-two-cities-clustering-neighborhoods-of-london-and-paris-5328f69cd8b6)
-3. **Report:** [Report](https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/DS_Report.ipynb)
+**Report:** [Report](https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/DS_Report.ipynb)
 
 # Introduction
 A Tale of Two cities, a novel written by Charles Dickens was set in London and Paris which takes place during the French Revolution. These cities were both happening then and now. A lot has changed over the years and we now take a look at how the cities have grown.
