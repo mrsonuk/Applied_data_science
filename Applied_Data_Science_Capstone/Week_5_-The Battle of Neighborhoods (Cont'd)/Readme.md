@@ -25,10 +25,10 @@ In this week, you will continue working on your capstone project. Please remembe
 
 **Here are examples of previous outstanding submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blog post would look like:**
 
-1. **Report:** https://cocl.us/coursera_capstone_report
-2. **Notebook:** https://cocl.us/coursera_capstone_notebook
-3. **Presentation:** https://cocl.us/coursera_capstone_presentation
-4. **Blog post:** https://cocl.us/coursera_capstone_blogpost
+1. **Report:** 
+2. **Notebook:** 
+3. **Presentation:** 
+4. **Blog post:** 
 
 ## My Work
 
